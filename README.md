@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Lucas Nascimento 👋
 
-<!--
-**Lucas-LBR/Lucas-LBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer from Brazil focused on building practical automation and inventory solutions for real business operations.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building real-world projects with Python
+* Interested in automation, backend development and business solutions
+* Combining programming with hands-on experience in gastronomy and food-service operations
+* Continuously improving my technical skills and professional English
+* Preparing for international freelance opportunities
+
+## Featured Project
+
+### Inventory Management System
+
+A modular inventory management application for small businesses, featuring CRUD operations, CSV persistence, input validation, stock movements and low-stock alerts.
+
+[View the project](https://github.com/Lucas-LBR/inventory-management-system)
+
+## Technologies
+
+* Python
+* CSV
+* Git
+* GitHub
+* Command-line applications
+
+## Currently Learning
+
+* Python automation
+* Software architecture
+* SQL and databases
+* APIs and backend development
+* Professional development workflows
+
+## Long-Term Goal
+
+To build reliable software that solves real operational problems and creates measurable value for businesses.
+
+
